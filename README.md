@@ -55,6 +55,4 @@ I'm a **Dr. Michael L. Lomax Scholar** and **Howard Thurman Honors Program** stu
 
 My favorite video games are Rocket League, Apex Legends, and Clash Royale
 
-Feel free to reach out if you're working on something in that space.
-
 [LinkedIn](https://www.linkedin.com/in/james-wyllie/) · [GitHub](https://github.com/Jamez43) · [Email](mailto:jameswyllie42@gmail.com)

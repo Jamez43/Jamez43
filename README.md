@@ -1,5 +1,5 @@
 
-# Hey, I'm James
+# Who is James
 
 **Game Developer & Software Engineer | Aspiring Technical Game Designer**
 
